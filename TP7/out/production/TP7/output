@@ -1,0 +1,7 @@
+cat <name>
+ed <filename>
+cd [<foldername>]
+ls [<name>]
+mv <src> <dst>
+rm <name>
+mkdir <foldername>
